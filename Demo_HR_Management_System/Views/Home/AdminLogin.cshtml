@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewData["Title"] = "AdminLogin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="admin-login-form">
+    <h2 class="Heading-center">Admin Login</h2>
+    <form action="/Home/AdminLogin" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="txtUsername" required>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="txtPassword" required>
+
+        <button type="submit">Login</button>
+    </form>
+
+    <p style="color:red">@ViewBag.message </p>
+</div>
+
+<style>
+    .Heading-center {
+        text-align: center;
+    }
+
+    #admin-login-form {
+        width: 400px;
+        margin: 50px auto;
+        padding: 15px;
+        background: white;
+        border-radius: 10px;
+        color: #2483A6;
+        text-align: left;
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        border: 2px solid #2483A6;
+    }
+
+        #admin-login-form h2 {
+            margin-bottom: 20px;
+            color: #2483A6;
+        }
+
+        #admin-login-form label {
+            display: block;
+            margin-bottom: 6px;
+            color: #2483A6;
+            font-weight: normal;
+        }
+
+        #admin-login-form input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 12px;
+            border: 1px solid #2483A6;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        #admin-login-form button {
+            width: 100%;
+            padding: 8px;
+            background-color: #2483A6;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+            #admin-login-form button:hover {
+                background-color: #1e6c82;
+            }
+</style>
+
+
