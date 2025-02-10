@@ -1,8 +1,101 @@
-﻿
+﻿@model IEnumerable<Demo_HR_Management_System.Models.Employee>
+
 @{
-    ViewData["Title"] = "SearchEmployee";
+    ViewData["Title"] = "Show Employee";
     Layout = "~/Views/Shared/_Layout_Admin.cshtml";
 }
 
-<h1>SearchEmployee</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Search</title>
+</head>
+<body>
+
+    <style>
+        #customers {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+            #customers td, #customers th {
+                border: 1px solid #ddd;
+                padding: 8px;
+            }
+
+            #customers tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            #customers tr:hover {
+                background-color: #ddd;
+            }
+
+            #customers th {
+                padding-top: 12px;
+                padding-bottom: 12px;
+                text-align: left;
+                background-color: #04AA6D;
+                color: white;
+            }
+    </style>
+
+    <!-- Search Form -->
+    
+    <form action="/Admin/SearchEmployee/" method="post">
+        <label for="empId">Enter Employee ID:</label>
+        <input type="number" id="empId" name="empId" placeholder="Enter Employee ID" required />
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+
+    <br />
+
+    <!-- Employee Table -->
+    <table id="customers">
+        <tr>
+            <th>EmpID</th>
+            <th>Emp Name</th>
+            <th>Emp Mobile</th>
+            <th>Emp Salary</th>
+            <th>Action</th>
+        </tr>
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.EmpId</td>
+                    <td>@item.EmpName</td>
+                    <td>@item.EmpMobile</td>
+                    <td>@item.EmpSalary</td>
+                    <td>
+                        <a href="/Admin/EditEmployee/@item.EmpId" class="btn btn-info">Edit</a> /
+                        <a href="/Admin/DeleteEmployee/@item.EmpId" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" style="text-align:center; color:red;">No records found</td>
+            </tr>
+        }
+    </table>
+
+</body>
+</html>
