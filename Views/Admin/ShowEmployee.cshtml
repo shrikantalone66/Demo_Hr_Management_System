@@ -1,0 +1,112 @@
+﻿@model IEnumerable<Demo_HR_Management_System.Models.Employee>
+
+
+@{
+    ViewData["Title"] = "ShowEmployee";
+    Layout = "~/Views/Shared/_Layout_Admin.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+   
+
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Table</title>
+    <style>
+        /* Table Styling */
+        #customers {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+            #customers td, #customers th {
+                border: 1px solid #ddd;
+                padding: 8px;
+            }
+
+            #customers tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            #customers tr:hover {
+                background-color: #ddd;
+            }
+
+            #customers th {
+                padding-top: 12px;
+                padding-bottom: 12px;
+                text-align: left;
+                background-color: #04AA6D;
+                color: white;
+            }
+
+        /* Success Message Styling */
+        #login-success {
+            width: 400px;
+            margin: 100px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            color: #2483A6;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            font-weight: bold;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border: 2px solid #2483A6;
+        }
+    </style>
+</head>
+<body>
+
+
+    <!-- Employee Table -->
+    <table id="customers">
+        <tr>
+            <th>EmpID</th>
+            <th>Emp Name</th>
+            <th>Emp Mobile</th>
+            <th>Emp Salary</th>
+            <th>Action</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.EmpId</td>
+                <td>@item.EmpName</td>
+                <td>@item.EmpMobile</td>
+                <td>@item.EmpSalary</td>
+
+                <td>
+
+                    <a href="/Admin/EditEmployee/@item.EmpId" class="btn btn-info">Edit</a> /
+                    <a href="/Admin/DeleteEmployee/@item.EmpId" class="btn btn-danger">Delete</a>
+
+
+                </td>
+
+            </tr>
+        }
+       
+
+
+       
+       
+    </table>
+
+</body>
+</html>
+
+
