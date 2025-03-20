@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "meJovU42M3z29E8svNskg/A9c/yKMWiOwfOSzNPkPOk=",
+  "Hash": "8+LfU3QRUUac6Vi7wUi2Ogod0lGJVsjwdTzMojog0wk=",
   "Source": "Demo_HR_Management_System",
   "BasePath": "_content/Demo_HR_Management_System",
   "Mode": "Default",
@@ -1632,6 +1632,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\1ababe37-03fe-4259-b3b6-bd491f01c576.jpg",
+      "SourceId": "Demo_HR_Management_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\",
+      "BasePath": "_content/Demo_HR_Management_System",
+      "RelativePath": "uploads/1ababe37-03fe-4259-b3b6-bd491f01c576#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "phdzajco6f",
+      "Integrity": "85pP3cv/1C3QW2YiQhdojOX+WAOqKX+7SL+Jm8ysnHA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1ababe37-03fe-4259-b3b6-bd491f01c576.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\35155b8b-75d5-45bf-bf7f-a3b294877142.jpg",
+      "SourceId": "Demo_HR_Management_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\",
+      "BasePath": "_content/Demo_HR_Management_System",
+      "RelativePath": "uploads/35155b8b-75d5-45bf-bf7f-a3b294877142#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "437b58nf4h",
+      "Integrity": "YJLqWsoDhqKdoenX8EzJm4AbF/7e/AlsQTsL8qsPkDw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\35155b8b-75d5-45bf-bf7f-a3b294877142.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\95a29ffa-52eb-4221-adab-e06176d42b22.jpg",
+      "SourceId": "Demo_HR_Management_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\",
+      "BasePath": "_content/Demo_HR_Management_System",
+      "RelativePath": "uploads/95a29ffa-52eb-4221-adab-e06176d42b22#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1wy3drahjs",
+      "Integrity": "YSxbjq7FUGRCsZ6JcdDXL9R2lsghw29CYGZE/Xy2J2A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\95a29ffa-52eb-4221-adab-e06176d42b22.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\9c7495cf-029f-45f7-ae4d-39ac89af0a07.jpg",
+      "SourceId": "Demo_HR_Management_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\",
+      "BasePath": "_content/Demo_HR_Management_System",
+      "RelativePath": "uploads/9c7495cf-029f-45f7-ae4d-39ac89af0a07#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "exa7iiz4e4",
+      "Integrity": "7sLXhyoEjm/Qx8O+KaHhknKc8+PsaGmUw5oXfBVXfFw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9c7495cf-029f-45f7-ae4d-39ac89af0a07.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\a763ab6c-c6a1-485b-ae1d-89dc0c8756c4.webp",
+      "SourceId": "Demo_HR_Management_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\",
+      "BasePath": "_content/Demo_HR_Management_System",
+      "RelativePath": "uploads/a763ab6c-c6a1-485b-ae1d-89dc0c8756c4#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9d9hs4tvnw",
+      "Integrity": "rQU692pjRpxSUjIAX6xoqRTZhHet+5qDov45MYObdCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a763ab6c-c6a1-485b-ae1d-89dc0c8756c4.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\e194cd09-ec28-4d20-92a0-d347b7a6e07f.jpg",
+      "SourceId": "Demo_HR_Management_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\",
+      "BasePath": "_content/Demo_HR_Management_System",
+      "RelativePath": "uploads/e194cd09-ec28-4d20-92a0-d347b7a6e07f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1wy3drahjs",
+      "Integrity": "YSxbjq7FUGRCsZ6JcdDXL9R2lsghw29CYGZE/Xy2J2A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e194cd09-ec28-4d20-92a0-d347b7a6e07f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\e87cdeba-2bf0-4dfc-b835-0f05ed061130.jpg",
+      "SourceId": "Demo_HR_Management_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\",
+      "BasePath": "_content/Demo_HR_Management_System",
+      "RelativePath": "uploads/e87cdeba-2bf0-4dfc-b835-0f05ed061130#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "phdzajco6f",
+      "Integrity": "85pP3cv/1C3QW2YiQhdojOX+WAOqKX+7SL+Jm8ysnHA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e87cdeba-2bf0-4dfc-b835-0f05ed061130.jpg"
     }
   ],
   "Endpoints": [
@@ -7946,6 +8093,580 @@
         {
           "Name": "integrity",
           "Value": "sha256-WCHECyWEYd50h3JRwnn56n9KHLFR5vnkyJPTeZp4ciM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1ababe37-03fe-4259-b3b6-bd491f01c576.jpg",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\1ababe37-03fe-4259-b3b6-bd491f01c576.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6424853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85pP3cv/1C3QW2YiQhdojOX+WAOqKX+7SL+Jm8ysnHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:55:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-85pP3cv/1C3QW2YiQhdojOX+WAOqKX+7SL+Jm8ysnHA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1ababe37-03fe-4259-b3b6-bd491f01c576.phdzajco6f.jpg",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\1ababe37-03fe-4259-b3b6-bd491f01c576.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6424853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85pP3cv/1C3QW2YiQhdojOX+WAOqKX+7SL+Jm8ysnHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:55:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "phdzajco6f"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1ababe37-03fe-4259-b3b6-bd491f01c576.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-85pP3cv/1C3QW2YiQhdojOX+WAOqKX+7SL+Jm8ysnHA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/35155b8b-75d5-45bf-bf7f-a3b294877142.437b58nf4h.jpg",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\35155b8b-75d5-45bf-bf7f-a3b294877142.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJLqWsoDhqKdoenX8EzJm4AbF/7e/AlsQTsL8qsPkDw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 05:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "437b58nf4h"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/35155b8b-75d5-45bf-bf7f-a3b294877142.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJLqWsoDhqKdoenX8EzJm4AbF/7e/AlsQTsL8qsPkDw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/35155b8b-75d5-45bf-bf7f-a3b294877142.jpg",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\35155b8b-75d5-45bf-bf7f-a3b294877142.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJLqWsoDhqKdoenX8EzJm4AbF/7e/AlsQTsL8qsPkDw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 05:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJLqWsoDhqKdoenX8EzJm4AbF/7e/AlsQTsL8qsPkDw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/95a29ffa-52eb-4221-adab-e06176d42b22.1wy3drahjs.jpg",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\95a29ffa-52eb-4221-adab-e06176d42b22.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YSxbjq7FUGRCsZ6JcdDXL9R2lsghw29CYGZE/Xy2J2A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:56:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1wy3drahjs"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/95a29ffa-52eb-4221-adab-e06176d42b22.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YSxbjq7FUGRCsZ6JcdDXL9R2lsghw29CYGZE/Xy2J2A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/95a29ffa-52eb-4221-adab-e06176d42b22.jpg",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\95a29ffa-52eb-4221-adab-e06176d42b22.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YSxbjq7FUGRCsZ6JcdDXL9R2lsghw29CYGZE/Xy2J2A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:56:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YSxbjq7FUGRCsZ6JcdDXL9R2lsghw29CYGZE/Xy2J2A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9c7495cf-029f-45f7-ae4d-39ac89af0a07.exa7iiz4e4.jpg",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\9c7495cf-029f-45f7-ae4d-39ac89af0a07.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7sLXhyoEjm/Qx8O+KaHhknKc8+PsaGmUw5oXfBVXfFw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:55:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "exa7iiz4e4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9c7495cf-029f-45f7-ae4d-39ac89af0a07.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7sLXhyoEjm/Qx8O+KaHhknKc8+PsaGmUw5oXfBVXfFw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9c7495cf-029f-45f7-ae4d-39ac89af0a07.jpg",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\9c7495cf-029f-45f7-ae4d-39ac89af0a07.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7sLXhyoEjm/Qx8O+KaHhknKc8+PsaGmUw5oXfBVXfFw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:55:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7sLXhyoEjm/Qx8O+KaHhknKc8+PsaGmUw5oXfBVXfFw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a763ab6c-c6a1-485b-ae1d-89dc0c8756c4.9d9hs4tvnw.webp",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\a763ab6c-c6a1-485b-ae1d-89dc0c8756c4.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rQU692pjRpxSUjIAX6xoqRTZhHet+5qDov45MYObdCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:55:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9d9hs4tvnw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a763ab6c-c6a1-485b-ae1d-89dc0c8756c4.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rQU692pjRpxSUjIAX6xoqRTZhHet+5qDov45MYObdCA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a763ab6c-c6a1-485b-ae1d-89dc0c8756c4.webp",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\a763ab6c-c6a1-485b-ae1d-89dc0c8756c4.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rQU692pjRpxSUjIAX6xoqRTZhHet+5qDov45MYObdCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:55:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rQU692pjRpxSUjIAX6xoqRTZhHet+5qDov45MYObdCA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e194cd09-ec28-4d20-92a0-d347b7a6e07f.1wy3drahjs.jpg",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\e194cd09-ec28-4d20-92a0-d347b7a6e07f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YSxbjq7FUGRCsZ6JcdDXL9R2lsghw29CYGZE/Xy2J2A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:58:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1wy3drahjs"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e194cd09-ec28-4d20-92a0-d347b7a6e07f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YSxbjq7FUGRCsZ6JcdDXL9R2lsghw29CYGZE/Xy2J2A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e194cd09-ec28-4d20-92a0-d347b7a6e07f.jpg",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\e194cd09-ec28-4d20-92a0-d347b7a6e07f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YSxbjq7FUGRCsZ6JcdDXL9R2lsghw29CYGZE/Xy2J2A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:58:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YSxbjq7FUGRCsZ6JcdDXL9R2lsghw29CYGZE/Xy2J2A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e87cdeba-2bf0-4dfc-b835-0f05ed061130.jpg",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\e87cdeba-2bf0-4dfc-b835-0f05ed061130.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6424853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85pP3cv/1C3QW2YiQhdojOX+WAOqKX+7SL+Jm8ysnHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:55:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-85pP3cv/1C3QW2YiQhdojOX+WAOqKX+7SL+Jm8ysnHA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e87cdeba-2bf0-4dfc-b835-0f05ed061130.phdzajco6f.jpg",
+      "AssetFile": "C:\\Users\\Shrikant Alone\\Downloads\\New folder (3)\\Demo_Hr_Management_System\\Demo_HR_Management_System\\wwwroot\\uploads\\e87cdeba-2bf0-4dfc-b835-0f05ed061130.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6424853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85pP3cv/1C3QW2YiQhdojOX+WAOqKX+7SL+Jm8ysnHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:55:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "phdzajco6f"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e87cdeba-2bf0-4dfc-b835-0f05ed061130.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-85pP3cv/1C3QW2YiQhdojOX+WAOqKX+7SL+Jm8ysnHA="
         }
       ]
     }

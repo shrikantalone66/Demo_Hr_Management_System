@@ -45,6 +45,9 @@ public partial class DemoHrManagementSystemContext : DbContext
             entity.Property(e => e.EmpName)
                 .HasMaxLength(50)
                 .HasColumnName("emp_name");
+            entity.Property(e => e.EmpPhoto)
+                .HasMaxLength(50)
+                .HasColumnName("emp_photo");
             entity.Property(e => e.EmpSalary)
                 .HasMaxLength(50)
                 .HasColumnName("emp_salary");

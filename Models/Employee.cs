@@ -18,4 +18,6 @@ public partial class Employee
     public string? EmpDesignation { get; set; }
 
     public string? EmpSalary { get; set; }
+
+    public string? EmpPhoto { get; set; }
 }

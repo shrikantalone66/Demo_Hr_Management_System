@@ -73,12 +73,13 @@
 
 
     <!-- Employee Table -->
-    <table id="customers">
+   @*  <table id="customers">
         <tr>
             <th>EmpID</th>
             <th>Emp Name</th>
             <th>Emp Mobile</th>
             <th>Emp Salary</th>
+            <th>Photo</th>
             <th>Action</th>
         </tr>
         @foreach (var item in Model)
@@ -88,6 +89,23 @@
                 <td>@item.EmpName</td>
                 <td>@item.EmpMobile</td>
                 <td>@item.EmpSalary</td>
+            
+
+
+
+
+
+                <td>
+                    @if (!string.IsNullOrEmpty(item.EmpPhoto))
+                    {
+                        <img src="~/uploads/@item.EmpPhoto" alt="Employee Photo" width="50" height="50" style="border-radius: 5px;">
+                    }
+                    else
+                    {
+                        <span>No Image</span>
+                    }
+                </td>
+
 
                 <td>
 
@@ -104,7 +122,43 @@
 
        
        
+    </table> *@
+
+
+    <table id="customers">
+        <tr>
+            <th>EmpID</th>
+            <th>Emp Name</th>
+            <th>Emp Mobile</th>
+            <th>Emp Salary</th>
+            <th>Photo</th>
+            <th>Action</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.EmpId</td>
+                <td>@item.EmpName</td>
+                <td>@item.EmpMobile</td>
+                <td>@item.EmpSalary</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.EmpPhoto))
+                    {
+                        <img src="~/uploads/@item.EmpPhoto" alt="Employee Photo" width="50" height="50" style="border-radius: 5px;">
+                    }
+                    else
+                    {
+                        <span>No Image</span>
+                    }
+                </td>
+                <td>
+                    <a href="/Admin/EditEmployee/@item.EmpId" class="btn btn-info">Edit</a> /
+                    <a href="/Admin/DeleteEmployee/@item.EmpId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
     </table>
+
 
 </body>
 </html>

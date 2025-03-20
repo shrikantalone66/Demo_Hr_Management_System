@@ -9,7 +9,7 @@
 
 <div id="add-employee-form">
     <h2 class="Heading-center">Edit Employee</h2>
-    <form action="/Admin/EditSuccess/" method="post">
+    <form action="/Admin/EditSuccess/" method="post" enctype="multipart/form-data">
         <label for="emp-id">Employee ID:</label>
         <input type="text" value="@Model.EmpId" id="emp-id" name="txtEmpId" readonly>
 
@@ -30,6 +30,9 @@
 
         <label for="salary">Salary:</label>
         <input type="number" value="@Model.EmpSalary" id="salary" name="txtEmpSalary" required>
+
+        <label for="photo">Upload Photo:</label>
+        <input type="file" id="photo" name="txtEmpPhoto" accept="image/*" required>
 
         <button type="submit">Update</button>
     </form>

@@ -28,7 +28,13 @@ namespace Demo_HR_Management_System.Controllers
             return View();
         }
 
-        
+        public IActionResult AdminLogin()
+        {
+            return View();
+        }
+
+
+        [HttpPost]
         public IActionResult AdminLogin(string txtUsername,string txtPassword)
         {
             if (txtUsername == "admin" && txtPassword == "super")
